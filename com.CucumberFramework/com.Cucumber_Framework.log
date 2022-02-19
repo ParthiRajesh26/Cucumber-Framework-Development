@@ -1,0 +1,195 @@
+2022-02-13 06:53:19,108 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 06:53:19,122 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 06:53:19,122 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 06:53:19,124 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 06:53:19,125 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 06:53:21,593 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 06:53:38,294 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user is logged in successfully and is on homepage
+2022-02-13 06:53:50,461 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user clicks on the directory option from the Menu bar
+2022-02-13 06:53:51,987 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] clicks the search button
+2022-02-13 06:53:52,062 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user should see the CEO name as John Smith
+2022-02-13 06:53:52,086 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 06:53:52,086 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 06:53:52,086 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 06:53:52,087 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 06:53:52,098 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user is on the Directory page
+2022-02-13 06:53:54,039 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user clicks on time option from the menu
+2022-02-13 06:53:54,287 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user enters the name as {string}
+2022-02-13 06:53:56,200 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] clicks on view button
+2022-02-13 06:56:19,404 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 06:56:19,407 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 06:56:19,407 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 06:56:19,409 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 06:56:19,410 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 06:56:19,734 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 06:56:36,363 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user is logged in successfully and is on homepage
+2022-02-13 06:56:47,447 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user clicks on the directory option from the Menu bar
+2022-02-13 06:56:48,984 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] clicks the search button
+2022-02-13 06:56:49,061 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user should see the CEO name as John Smith
+2022-02-13 06:56:49,088 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 06:56:49,089 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 06:56:49,089 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 06:56:49,090 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 06:56:49,106 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user is on the Directory page
+2022-02-13 06:56:49,182 [ERROR] com.Step_Defenitions.TimeSheets_Step_Def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Tim"}
+  (Session info: chrome=98.0.4758.82)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [781a07845ff33aec34cee4793a245c0d, findElement {using=link text, value=Tim}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50454}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50454/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 781a07845ff33aec34cee4793a245c0d
+2022-02-13 06:59:45,347 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 06:59:45,350 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 06:59:45,350 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 06:59:45,352 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 06:59:45,352 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 06:59:45,713 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 07:00:01,412 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user is logged in successfully and is on homepage
+2022-02-13 07:00:11,224 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user clicks on the directory option from the Menu bar
+2022-02-13 07:00:12,869 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] clicks the search button
+2022-02-13 07:00:12,940 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user should see the CEO name as John Smith
+2022-02-13 07:00:12,956 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:00:12,956 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:00:12,956 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:00:12,957 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:00:12,964 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user is on the Directory page
+2022-02-13 07:00:13,006 [ERROR] com.Step_Defenitions.TimeSheets_Step_Def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Tim"}
+  (Session info: chrome=98.0.4758.82)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2584406d9d9ddc20df6f82c5252972a4, findElement {using=link text, value=Tim}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50486/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2584406d9d9ddc20df6f82c5252972a4
+2022-02-13 07:00:13,021 [ERROR] com.Step_Defenitions.TimeSheets_Step_Def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#employee"}
+  (Session info: chrome=98.0.4758.82)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2584406d9d9ddc20df6f82c5252972a4, findElement {using=id, value=employee}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50486/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2584406d9d9ddc20df6f82c5252972a4
+2022-02-13 07:19:24,602 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:19:24,605 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:19:24,606 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:19:24,609 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:19:24,610 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 07:19:24,965 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 07:19:29,051 [ERROR] com.Step_Defenitions.Verify_CEO_Step_Def [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a90ba4f23561ed16b0c88c6cfcc420cf, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50684/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a90ba4f23561ed16b0c88c6cfcc420cf
+2022-02-13 07:19:29,130 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:19:29,130 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:19:29,130 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:19:29,131 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:19:29,137 [ERROR] com.Step_Defenitions.TimeSheets_Step_Def [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a90ba4f23561ed16b0c88c6cfcc420cf, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50684/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a90ba4f23561ed16b0c88c6cfcc420cf
+2022-02-13 07:28:25,675 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:28:25,677 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:28:25,677 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:28:25,679 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:28:25,680 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 07:28:26,033 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 07:28:30,300 [ERROR] com.Step_Defenitions.Verify_CEO_Step_Def [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c9b231df1f99faa953949df6c7d7bd8e, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50824}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50824/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c9b231df1f99faa953949df6c7d7bd8e
+2022-02-13 07:28:30,371 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:28:30,371 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:28:30,372 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:28:30,372 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:28:30,383 [ERROR] com.Step_Defenitions.TimeSheets_Step_Def [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c9b231df1f99faa953949df6c7d7bd8e, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50824}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50824/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c9b231df1f99faa953949df6c7d7bd8e
+2022-02-13 07:48:04,708 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:48:04,715 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:48:04,716 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:48:04,721 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:48:04,723 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 07:48:05,795 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 07:48:25,770 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user is logged in successfully and is on homepage
+2022-02-13 07:48:35,448 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user clicks on the directory option from the Menu bar
+2022-02-13 07:48:36,820 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] clicks the search button
+2022-02-13 07:48:36,897 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user should see the CEO name as John Smith
+2022-02-13 07:48:36,924 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:48:36,924 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:48:36,924 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:48:36,925 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:48:36,940 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user is on the Directory page
+2022-02-13 07:48:39,387 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user clicks on time option from the menu
+2022-02-13 07:48:39,777 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user enters the name as {string}
+2022-02-13 07:48:41,629 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] clicks on view button
+2022-02-13 07:50:57,699 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:50:57,707 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:50:57,707 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:50:57,712 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:50:57,714 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 07:50:58,547 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 07:51:15,651 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user is logged in successfully and is on homepage
+2022-02-13 07:51:25,783 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user clicks on the directory option from the Menu bar
+2022-02-13 07:51:27,419 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] clicks the search button
+2022-02-13 07:51:27,502 [INFO ] com.Step_Defenitions.Verify_CEO_Step_Def [main] the user should see the CEO name as John Smith
+2022-02-13 07:51:27,545 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:51:27,546 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:51:27,547 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:51:27,548 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:51:27,562 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user is on the Directory page
+2022-02-13 07:51:29,571 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user clicks on time option from the menu
+2022-02-13 07:51:29,891 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] the user enters the name as {string}
+2022-02-13 07:51:31,825 [INFO ] com.Step_Defenitions.TimeSheets_Step_Def [main] clicks on view button
+2022-02-13 07:55:31,885 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:55:31,892 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:55:31,892 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:55:31,897 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:55:31,900 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Driver is Null, Instantiating it
+2022-02-13 07:55:34,542 [INFO ] com.webdriver_manager.DriverManager [main] Launching chrome
+2022-02-13 07:55:41,034 [ERROR] com.Step_Defenitions.Verify_CEO_Step_Def [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ca83b17efbe9c3b844dffd1ef6e54689, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51061}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51061/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ca83b17efbe9c3b844dffd1ef6e54689
+2022-02-13 07:55:41,224 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Execution Started
+2022-02-13 07:55:41,225 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Instantiation the CommonUtils
+2022-02-13 07:55:41,226 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Loading the Properties file
+2022-02-13 07:55:41,228 [INFO ] com.Step_Defenitions.Common_Step_Def [main] Checking the driver is Null or Not
+2022-02-13 07:55:41,246 [ERROR] com.Step_Defenitions.TimeSheets_Step_Def [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=98.0.4758.82)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'MY-EVERYTHING', ip: '192.168.43.181', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ca83b17efbe9c3b844dffd1ef6e54689, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.82, chrome: {chromedriverVersion: 98.0.4758.80 (7f0488e8ba0d8..., userDataDir: C:\Users\PARTHI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51061}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51061/devtoo..., se:cdpVersion: 98.0.4758.82, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ca83b17efbe9c3b844dffd1ef6e54689
